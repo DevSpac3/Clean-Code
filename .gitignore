@@ -1,0 +1,14 @@
+node_modules
+dist
+coverage
+coverage.out
+.vscode
+.idea
+tests/temp
+demo
+build/
+!docker-images/**
+**/.DS_Store
+**/space
+~temp
+junit.xml
